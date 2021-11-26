@@ -1,4 +1,4 @@
-prefix=/home/dd/libs/libosip2/libosip2-5.2.1/../linux64
+prefix=/home/dd/libs/libosip2/linux64
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

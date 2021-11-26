@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/dd/libs/libosip2/libosip2-5.2.1/../linux64/lib'
+libdir='/home/dd/libs/libosip2/linux64/lib'
